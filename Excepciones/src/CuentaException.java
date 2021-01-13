@@ -2,7 +2,7 @@
 //Esto es una excepcion
 public class CuentaException extends Exception{
 
-	// Constructor
+	// Constructor. x
 	public CuentaException(String msg) {
 		super(msg);
 	}
