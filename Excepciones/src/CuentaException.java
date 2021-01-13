@@ -1,5 +1,5 @@
 
-//Esto es una excepcion
+//Excepcion para el programa de Cuentas
 public class CuentaException extends Exception{
 
 	// Constructor. x
